@@ -25,6 +25,7 @@ import java.util.List;
  * Compare settings
  */
 public class CompareObjectsSettings {
+    // decedfewdewfewfe
 
     public enum OutputType {
         BROWSER("Open in browser"),
